@@ -30,10 +30,10 @@ int main()
     cin >> pilihM;
     if (pilihM==1) 
     {
-        cout << "Coomingsoon";
+        cout << "Comingsoon";
     } else 
     {
-        cout << "Coomingsoon";
+        cout << "Comingsoon";
     }
     
     return 0;
